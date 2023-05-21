@@ -1,9 +1,9 @@
 <p align="center">
-  <img src= "https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif">
+  <img src= "https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif height="50px">
 </p>
 
 <h1 align="center">
-  Get In Touch!💬
+  Hey there! Welcome to my Github Profile ❤️‍🔥
 </h1>
 
 <p align="center">
