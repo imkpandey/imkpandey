@@ -38,7 +38,7 @@ passions and pursuits:
     "UI/UX",
   ]
 currently_learning: ["Next.js, TypeScript and react-three-fiber"]
-amusements: ["Anime", "Movies", "Books", "Retro Art", "Feline friends"]
+amusements: ["Anime", "Movies", "Books", "Retro Art", "Cats"]
 ```
   
 ---  
